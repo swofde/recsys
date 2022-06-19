@@ -18,7 +18,7 @@ gatsby develop
 
 По адресу http://localhost:8000 запустится сервер с вашим сайтом
 
-В файле src/pages/recsys.js в 141 и 219 необходимо будет заменить строку 
+В файле src/pages/recsys.js в строках 141 и 219 необходимо будет заменить строку 
 
 ```
 'https://functions.yandexcloud.net/ваша_яндекс_функция'
