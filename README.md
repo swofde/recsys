@@ -2,6 +2,21 @@
 
 ## Инструкция для сайта
 
+В npm установите следующие пакеты
+```
+react-bootstrap
+
+bootstrap
+
+chartjs
+
+react-chartjs-2
+
+react-widgets
+
+```
+
+
 Склонируйте репозиторий
 
 ```
