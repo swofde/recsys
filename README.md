@@ -46,7 +46,7 @@ yandex_func.py
 yandex_func_requirements.txt
 ```
 
-Затем, в этой же вкладке переименовть файл с расширением .txt на 
+Затем, в этой же вкладке переименовть файл yandex_func_requirements.txt на 
 
 ```
 requirements.txt
